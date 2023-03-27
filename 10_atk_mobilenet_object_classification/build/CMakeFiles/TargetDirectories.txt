@@ -1,0 +1,3 @@
+/home/alientek/ai/10_atk_mobilenet_object_classification/build/CMakeFiles/edit_cache.dir
+/home/alientek/ai/10_atk_mobilenet_object_classification/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ai/10_atk_mobilenet_object_classification/build/CMakeFiles/atk_mobilenet_object_classification.dir

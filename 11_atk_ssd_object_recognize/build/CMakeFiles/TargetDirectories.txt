@@ -1,0 +1,3 @@
+/home/alientek/ai/11_atk_ssd_object_recognize/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ai/11_atk_ssd_object_recognize/build/CMakeFiles/edit_cache.dir
+/home/alientek/ai/11_atk_ssd_object_recognize/build/CMakeFiles/atk_ssd_object_recognize.dir

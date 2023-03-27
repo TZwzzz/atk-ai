@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "framebuffer_lcd.h": "c"
+    },
+    "cmake.configureOnOpen": false
+}

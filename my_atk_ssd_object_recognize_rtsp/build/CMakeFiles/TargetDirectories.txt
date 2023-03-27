@@ -1,0 +1,3 @@
+/home/wilson/bak/atk-ai/my_atk_ssd_object_recognize_rtsp/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/bak/atk-ai/my_atk_ssd_object_recognize_rtsp/build/CMakeFiles/edit_cache.dir
+/home/wilson/bak/atk-ai/my_atk_ssd_object_recognize_rtsp/build/CMakeFiles/my_atk_ssd_object_recognize_rtsp.dir

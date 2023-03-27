@@ -1,0 +1,3 @@
+/home/alientek/ai/15_rkmedia_rockx_face_detection_rtsp/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ai/15_rkmedia_rockx_face_detection_rtsp/build/CMakeFiles/edit_cache.dir
+/home/alientek/ai/15_rkmedia_rockx_face_detection_rtsp/build/CMakeFiles/rkmedia_rockx_face_detection_rtsp.dir

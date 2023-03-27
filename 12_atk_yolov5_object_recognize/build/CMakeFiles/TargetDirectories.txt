@@ -1,0 +1,3 @@
+/home/alientek/ai/12_atk_yolov5_object_recognize/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ai/12_atk_yolov5_object_recognize/build/CMakeFiles/edit_cache.dir
+/home/alientek/ai/12_atk_yolov5_object_recognize/build/CMakeFiles/atk_yolov5_object_recognize.dir

@@ -1,0 +1,3 @@
+/home/alientek/ai/my_atk_yolo5_object_recognize_rtsp_vo/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/ai/my_atk_yolo5_object_recognize_rtsp_vo/build/CMakeFiles/edit_cache.dir
+/home/alientek/ai/my_atk_yolo5_object_recognize_rtsp_vo/build/CMakeFiles/my_atk_yolo5_object_recognize_rtsp_vo.dir

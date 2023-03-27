@@ -1,0 +1,3 @@
+/home/alientek/rkmedia_myRtsp_test/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/rkmedia_myRtsp_test/build/CMakeFiles/edit_cache.dir
+/home/alientek/rkmedia_myRtsp_test/build/CMakeFiles/my_rkmedia_vi_venc_Rtsp.dir
